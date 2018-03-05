@@ -1,8 +1,16 @@
+using System;
+using System.Data.Entity;
+using System.Linq;
+using System.Collections.Generic;
+using System.Web;
+using System.ComponentModel.DataAnnotations;
+using System.Web.Mvc;
+//BIT 285
+//Assignment 2
+//Joan Dawson
 namespace Assignment2.Models
 {
-    using System;
-    using System.Data.Entity;
-    using System.Linq;
+   
 
     public class VisitorLogContext : DbContext
     {

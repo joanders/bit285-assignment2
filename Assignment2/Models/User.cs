@@ -4,7 +4,9 @@ using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
 using System.Web.Mvc;
-
+//BIT 285
+//Assignment 2
+//Joan Dawson
 namespace Assignment2.Models
 {
     public class User
